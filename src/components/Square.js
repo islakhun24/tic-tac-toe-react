@@ -1,5 +1,5 @@
 import React from "react";
-import "../App.css";
+import "../App.scss";
 import cancel from '../images/cancel.png';
 import dot from '../images/dot.png'
 function Square({ val, chooseSquare }) {
